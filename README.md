@@ -1,4 +1,4 @@
-# Case-Studies
+# Case-Studies : Data Analysis
 
 I started doing one case study a week to keep my game alive
 
