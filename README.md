@@ -5,3 +5,5 @@ In these projects I use Python to answer questions using data, applying differen
 #### Key Libraries
 * Pandas
 * Numpy
+* Sklearn
+* Matloplib
