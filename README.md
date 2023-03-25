@@ -1,5 +1,7 @@
-## Case-Studies : Data Analysis
+### Case-Studies : Exploratory Data Analysis in PYthon
 
-My tools of work are Python, SQL, Looker Studio, Tableau.
+In these projects I use Python to answer questions using data, applying different approaches to different datasets. 
 
-The goal is to answer questions using data, applying different approaches to different datasets.  
+#### Key Libraries
+* Pandas
+* Numpy
